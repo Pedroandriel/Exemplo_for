@@ -36,18 +36,17 @@ public class App {
         }
 
 
-
         for (int i= 10; i>0; i--){
             System.out.println(" Socorro ");
        }
 
-        Object Exemplo;
         Exemplo for;
         for (int i=0; i<10; i++){
             System.out.println(" Java é Top");
         }
 
 
+        exemplo Loop doWhile
         boolean testeDo = false;
 
         do {
